@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  6 11:02:45 2021
-
-@author: salma asif
-"""
-
 import nltk
 
 from gensim.models import Word2Vec
