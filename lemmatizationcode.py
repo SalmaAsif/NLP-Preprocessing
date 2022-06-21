@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  6 11:24:39 2021
-
-@author: salma asif
-"""
-
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
