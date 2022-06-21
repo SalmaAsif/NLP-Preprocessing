@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  6 11:26:03 2021
-
-@author: salma asif
-"""
-
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
