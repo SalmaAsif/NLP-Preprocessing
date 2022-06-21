@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  6 11:22:34 2021
-
-@author: salma asif
-"""
-
 import nltk
 import re
 from nltk.corpus import stopwords
